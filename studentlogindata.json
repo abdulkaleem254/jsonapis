@@ -1,0 +1,16 @@
+{
+    "login":[
+        {
+            "name":"demo",
+            "password":"demo1"
+        },
+        {
+            "name":"kaleem",
+            "password":"kaleem1"
+        },
+        {
+            "name":"sample",
+            "password":"sample1"
+        }
+    ]
+}
